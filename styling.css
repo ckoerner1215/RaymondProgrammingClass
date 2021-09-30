@@ -1,0 +1,38 @@
+body {
+  background-color: #BCD6F3;
+}
+h1 {
+  color: blue;
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Bonheur Royale', cursive;
+}
+h2 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 50;
+  text-align: center;
+}
+.linestyle {
+  border-bottom: dotted;
+  color: purple;
+}
+p {
+  color: black;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #1528CA;
+  padding: 10px;
+  border-radius: 25px;
+}
+.smaller-images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
